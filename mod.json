@@ -1,0 +1,12 @@
+
+{
+  "geode": "4.0.0",
+  "gd": {
+    "android": "2.2074"
+  },
+  "id": "dexstellius.hello-menu",
+  "name": "Hello Menu",
+  "version": "v1.0.0",
+  "developer": "DeXstellius",
+  "description": "Adds a hello message to the main menu."
+}
